@@ -22,8 +22,8 @@ def NumberSummary():
     print('Total is ',total)
     print('Valid entries ',count)
     print('Average is ',average)
-    print('Minimum is ', minimum)
-    print('Maximum is ', maximum)
+    print('Minimum is ',minimum)
+    print('Maximum is ',maximum)
 
 NumberSummary()
 
